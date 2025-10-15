@@ -17,5 +17,5 @@ Python • PyTorch • TensorFlow • Scikit-learn • YOLOv5 • OpenCV • Pan
 - 🏟️ **Interlanguage Sport Event Analytics (TAL/NLP)** : collecte X/Twitter après matchs, analyse multilingue des sentiments.
 
 ## 🌐 Me retrouver
-- [LinkedIn]([https://www.linkedin.com/in/maliki](https://www.linkedin.com/in/malick-sokhona/))  
+- [LinkedIn](https://www.linkedin.com/in/malick-sokhona/)  
 - [GitHub](https://github.com/malikiskn)
