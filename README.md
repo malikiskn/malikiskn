@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Photo de profil Malick" width="140" />
+  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/115050706?v=4)" alt="Photo de profil Malick" width="140" />
 </p>
 
 # 👋 Salut, je suis Malick Sokhona
