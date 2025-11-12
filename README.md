@@ -2,13 +2,13 @@
   <img src="https://avatars.githubusercontent.com/u/115050706?v=4" alt="Photo de profil Malick" width="140" style="border-radius:50%;" />
 </p>
 
-# 👋 Salut, je suis Malick Sokhona
+# Salut, je suis Malick Sokhona
 
 🎓 Étudiant en Master 2 Informatique – Parcours IA, Science des Données et Santé (Université de Caen).  
 💻 Passionné par l’IA, le Machine Learning, le Deep Learning, la Vision par Ordinateur et le NLP.  
-🚀 Je recherche un stage de 4–6 mois en **Data Science / IA / NLP**.
+ Je recherche un stage de 4–6 mois en **Data Science / IA / NLP**.
 
-## 🧠 Compétences techniques
+##  Compétences techniques
 Python • PyTorch • TensorFlow • Scikit-learn • YOLOv5 • OpenCV • Pandas • NumPy • Flask • SQL • PostgreSQL • SQLite • Linux • Git
 
 ## 🧪 Projets récents
